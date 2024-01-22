@@ -1,5 +1,4 @@
 # Systems-Genetics
-Systems Genetics - Maggi Plutov
 
 In this project we combined genetics and intermediate phenotypes to discover novel findings. 
 
