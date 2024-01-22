@@ -21,17 +21,19 @@ The full description are explained in the following PDF file: [System Genetics -
 
 files provided : 
 
--final project report - [Report.pdf](https://github.com/PlutovMaggi/Systems-Genetics/files/14009179/Report.pdf)
+-final project report - pdf file
 
 -final project code - implemented in Python
 
--GSE17522_family.soft - GEO file for liver metadata
+-*GSE17522_family.soft - GEO file for liver metadata
 
--GSE17522_series_matrix.txt - GEO file for liver genes expression data
+-*GSE17522_series_matrix.txt - GEO file for liver genes expression data
 
--GSE18067_family.soft - GEO file for blood stem cells metadata
+-*GSE18067_family.soft - GEO file for blood stem cells metadata 
 
--GSE18067_series_matrix.txt - GEO file for blood stem cells genes expression data
+-*GSE18067_series_matrix.txt - GEO file for blood stem cells genes expression data
+
+* the data files can be downloaded from this drive (too big to upload) : https://drive.google.com/drive/folders/112yJBYCVS_kwbdJSTZgULghLCxLzrAfc?usp=sharing
 
 
 To run the code, make sure all these files are in the same folder (with the code), along with the genotypes and phenotypes file provided in previous assignments.
